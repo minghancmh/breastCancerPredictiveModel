@@ -1,0 +1,35 @@
+# id - NUMERICAL
+unique identifier for each record in the dataset
+
+# diagnosis - CATEGORICAL
+M = malignant, B = benign
+
+# radius_mean - NUMERICAL
+mean of distances from center to points on the perimeter
+
+# texture_mean - NUMERICAL
+standard deviation of gray-scale values
+
+# perimeter_mean - NUMERICAL
+mean size of the core tumor
+
+# area_mean - NUMERICAL
+mean area of the core tumor
+
+# smoothness_mean - NUMERICAL
+mean of local variation in radius lengths
+
+# compactness_mean - NUMERICAL
+mean of perimeter^2 / area - 1.0
+
+# concavity_mean - NUMERICAL
+mean of severity of concave portions of the contour
+
+# concave points_mean - NUMERICAL
+mean for number of concave portions of the contour
+
+# symmetry_mean - NUMERICAL
+mean of symmetry of concave portions of the contour
+
+# fractal_dimension_mean - NUMERICAL
+mean for "coastline approximation" - 1
