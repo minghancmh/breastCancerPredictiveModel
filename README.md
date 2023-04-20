@@ -1,3 +1,3 @@
 # diabetesPredictiveModel
 
-[Video](Insert Link Here)
+[Video](https://youtu.be/8OppWbQNVng)
