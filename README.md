@@ -2,11 +2,9 @@
 
 ![ntu-logo](images/ntu-placeholder-d.jpeg)
 
----
 
 ## Submission Video Link: [Video](https://youtu.be/8OppWbQNVng)
 
----
 
 ## Breast Cancer Predictive Model
 
@@ -35,7 +33,6 @@ Is there a way for us to value-add to this field by augmenting the initial predi
 
 There exists research suggesting that the prediction of breast cancer is a data-driven problem. Although this concept is still in its infancy, some are looking into its potential applications in the healthcare industry. That is the purpose of our project - to predict the diagnosis of breast cancer with machine learning models in order to arrive at the most suitable one. 
 
---- 
 
 ## The Data Science Pipeline :microscope:
 
@@ -186,5 +183,11 @@ The following 2 individuals have worked through sleepless nights to materialize 
 - Video editing and submission
 
 The other duties in the project were distributed equally amongst these 2 individuals.
+
+## References
+[1]: Breast cancer. Singapore Cancer Society. (n.d.). Retrieved April 22, 2023, from https://www.singaporecancersociety.org.sg/learn-about-cancer/types-of-cancer/breast-cancer.html 
+[2]: Auto, H. (2021, August 6). More doctors in Singapore face burnout, anxiety amid the pandemic. The Straits Times. https://www.straitstimes.com/life/more-doctors-in-singapore-face-burnout-anxiety-amid-the-pandemic#:~:text=It%20surveyed%203%2C075%20healthcare%20workers,signs%20of%20disengagement%20and%20exhaustion.
+[3]: Brady, A. P. (2017). Error and discrepancy in radiology: inevitable or avoidable? Insights Into Imaging, 8(1), 171–182. https://doi.org/10.1007/s13244-016-0534-1
+[4]: Limitations of Mammograms | How Accurate Are Mammograms? (n.d.). https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/mammograms/limitations-of-mammograms.html#:~:text=Overall%2C%20screening%20mammograms%20miss%20about,when%20in%20fact%20they%20do.
 
 ## Thank you!
