@@ -23,7 +23,7 @@ Locally, more than 2000 women annually are diagnosed with breast cancer, and ove
 Current methods for diagnosing breast cancer have their limitations.
 - 75% of surveyed doctors showed signs of disengagement and exhaustion [2]
 - 40 million radiologist errors per annum [3]
-- 12.5% of screening mammograms fail to detect breast cancer [4]
+- 12.5% of screening mammograms fail to detect breast cancer [15]
 
 Is there a way for us to value-add to this field by augmenting the initial prediction phase?
 
@@ -185,9 +185,52 @@ The following 2 individuals have worked through sleepless nights to materialize 
 The other duties in the project were distributed equally amongst these 2 individuals.
 
 ## References
-[1]: Breast cancer. Singapore Cancer Society. (n.d.). Retrieved April 22, 2023, from https://www.singaporecancersociety.org.sg/learn-about-cancer/types-of-cancer/breast-cancer.html 
-[2]: Auto, H. (2021, August 6). More doctors in Singapore face burnout, anxiety amid the pandemic. The Straits Times. https://www.straitstimes.com/life/more-doctors-in-singapore-face-burnout-anxiety-amid-the-pandemic#:~:text=It%20surveyed%203%2C075%20healthcare%20workers,signs%20of%20disengagement%20and%20exhaustion.
-[3]: Brady, A. P. (2017). Error and discrepancy in radiology: inevitable or avoidable? Insights Into Imaging, 8(1), 171–182. https://doi.org/10.1007/s13244-016-0534-1
-[4]: Limitations of Mammograms | How Accurate Are Mammograms? (n.d.). https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/mammograms/limitations-of-mammograms.html#:~:text=Overall%2C%20screening%20mammograms%20miss%20about,when%20in%20fact%20they%20do.
+<p> [1]: Breast cancer. Singapore Cancer Society. (n.d.). Retrieved April 22, 2023, from https://www.singaporecancersociety.org.sg/learn-about-cancer/types-of-cancer/breast-cancer.html </p>
+
+<p> [2] Auto, H. (2021, August 6). More doctors in Singapore face burnout, anxiety amid the pandemic. The Straits Times. https://www.straitstimes.com/life/more-doctors-in-singapore-face-burnout-anxiety-amid-the-pandemic#:~:text=It%20surveyed%203%2C075%20healthcare%20workers,signs%20of%20disengagement%20and%20exhaustion. </p>
+
+
+<p> [3] Brady, A. P. (2017). Error and discrepancy in radiology: inevitable or avoidable? Insights Into Imaging, 8(1), 171–182. https://doi.org/10.1007/s13244-016-0534-1</p>
+
+<p> [4] Breast Cancer - Statistics. (2023, February 23). Cancer.Net. https://www.cancer.net/cancer-types/breast-cancer/statistics#:~:text=In%202020%2C%20an%20estimated%20684%2C996,United%20States%20after%20lung%20cancer.</p>
+
+<p> [5] Breast Cancer Statistics | How Common Is Breast Cancer? (n.d.). https://www.cancer.org/cancer/breast-cancer/about/how-common-is-breast-cancer.html#:~:text=Lifetime%20chance%20of%20getting%20breast,she%20will%20develop%20breast%20cancer.</p>
+
+
+<p> [6] Common Cancer Types. (2023, March 7). National Cancer Institute. https://www.cancer.gov/types/common-cancers#:~:text=The%20most%20common%20type%20of,are%20combined%20for%20the%20list.</p>
+
+
+<p> [7] Dahiru, T. (2011). P-Value, a true test of statistical significance? a cautionary note. Annals of Ibadan Postgraduate Medicine, 6(1). https://doi.org/10.4314/aipm.v6i1.64038</p>
+
+<p> [8] Dubey, A. (2023, April 4). Feature Selection Using Random forest - Towards Data Science. Medium. https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f#:~:text=How%20does%20Random%20forest%20select,random%20extraction%20of%20the%20features. </p>
+
+
+<p> [9] Hashmi, F. (2021, November 26). How to measure the correlation between a numeric and a categorical variable in Python - Thinking Neuron. Thinking Neuron. https://thinkingneuron.com/how-to-measure-the-correlation-between-a-numeric-and-a-categorical-variable-in-python</p>
+
+
+<p> [10] Kanstrén, T. (2022, March 30). A Look at Precision, Recall, and F1-Score - Towards Data Science. Medium. https://towardsdatascience.com/a-look-at-precision-recall-and-f1-score-36b5fd0dd3ec </p>
+
+
+<p> [11] Limitations of Mammograms | How Accurate Are Mammograms? (n.d.). https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/mammograms/limitations-of-mammograms.html#:~:text=Overall%2C%20screening%20mammograms%20miss%20about,when%20in%20fact%20they%20do. </p>
+
+
+<p> [12] Nahm, F. S. (2022). Receiver operating characteristic curve: overview and practical use for clinicians. Korean Journal of Anesthesiology, 75(1), 25–36. https://doi.org/10.4097/kja.21209 </p>
+
+
+<p> [13] Narkhede, S. (2022, March 5). Understanding AUC - ROC Curve - Towards Data Science. Medium. https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5</p> 
+
+
+<p> [14] scipy.stats.f_oneway — SciPy v1.10.1 Manual. (n.d.). https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html</p>
+
+
+<p> [15] Yadav, A. (2018, October 22). SUPPORT VECTOR MACHINES(SVM) - Towards Data Science. Medium. https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589 </p>
+
+
+
+
+
+
+
+
 
 ## Thank you!
